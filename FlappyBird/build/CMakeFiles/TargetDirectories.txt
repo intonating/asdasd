@@ -1,0 +1,3 @@
+/home/matvey/Документы/c++/vs code/FlappyBird/build/CMakeFiles/FlappyBird.dir
+/home/matvey/Документы/c++/vs code/FlappyBird/build/CMakeFiles/edit_cache.dir
+/home/matvey/Документы/c++/vs code/FlappyBird/build/CMakeFiles/rebuild_cache.dir

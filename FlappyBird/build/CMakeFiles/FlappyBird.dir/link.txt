@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/FlappyBird.dir/link.d CMakeFiles/FlappyBird.dir/src/Bird.cpp.o CMakeFiles/FlappyBird.dir/src/Pipe.cpp.o CMakeFiles/FlappyBird.dir/src/main.cpp.o -o FlappyBird  -lsfml-graphics -lsfml-window -lsfml-system
